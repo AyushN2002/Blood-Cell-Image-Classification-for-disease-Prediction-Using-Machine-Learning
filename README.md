@@ -1,0 +1,2 @@
+# Blood-Cell-Image-Classification-for-disease-Prediction-Using-Machine-Learning
+This project uses InceptionV3 and transfer learning to classify white blood cell images (Eosinophils, Lymphocytes, Monocytes, Neutrophils,Basophil). It features data augmentation, fine-tuning, and a web app for real-time prediction. Scalable and clinically relevant, it supports early disease detection and future telemedicine integration.
